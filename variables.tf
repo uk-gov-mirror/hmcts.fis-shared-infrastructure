@@ -38,5 +38,5 @@ variable "additional_managed_identities_access" {
 
 variable "sampling_percentage" {
   description = "The percentage of data that is collected."
-  default     = 1
+  default     = 100
 }
